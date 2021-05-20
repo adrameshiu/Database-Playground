@@ -1,0 +1,1 @@
+Use the random number generated(on uniform distribution) and search for the range it fits in the cumulative distribution of probabilities we found and take the number that corresponds to it.

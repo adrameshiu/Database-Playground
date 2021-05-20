@@ -1,0 +1,2 @@
+- recursive view function to get the root as the element without a parent and find union with the children of x2's each at a level+1 to its parent
+- temporary recursive view to get all leaves with same level(from the recursive view function) and then find union with two parent-child relations and get the corresponding children with the current x2 as parent(basically children with the same parent) with level+1 compared to their parents
